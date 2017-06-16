@@ -23,6 +23,7 @@ button {
 button:hover {
   background-color: #CFD8DC;
 }
+
 button:disabled {
   background-color: #eee;
   color: #ccc;
